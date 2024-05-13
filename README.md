@@ -1,6 +1,7 @@
 尊敬的用户，您好：
 
 由于复杂且多变的国际网络形式和域名门槛。
+
 跨境Cloud提供了多种形式域名访问我们的官网。
 
 ①全球域名：即需要通过代理节点才可访问的网址
@@ -15,6 +16,8 @@ https://ikuajing.org              需挂代理节点访问
 
 
 
+
+
 直连域名：可直接通过大陆网络直连就可访问的网址
 
 https://k3rvr0.ekuajing.cc/auth/login
@@ -23,6 +26,7 @@ https://ikuajing.cc/
 
 
 ② 邮箱：zepolchamiu943@gmail.com
+
 邮箱作用
 
 🚅也可提供最新官网 直连网址
