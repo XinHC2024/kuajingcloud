@@ -4,7 +4,7 @@
 
 跨境Cloud提供了多种形式域名访问我们的官网。
 
-①全球域名：即需要通过代理节点才可访问的网址
+🚌全球域名：即需要通过代理节点才可访问的网址
 
 https://ikuajing01.com         需挂代理节点访问
 
@@ -18,9 +18,9 @@ https://ikuajing.org              需挂代理节点访问
 
 
 
-直连域名：可直接通过大陆网络直连就可访问的网址
+🚠直连域名：可直接通过大陆网络直连就可访问的网址
 
-https://xy4eu.ekuajing.cc/auth/login
+https://abv1314.ekuajing.cc/auth/login
 
 https://ikuajing.cc/
 
