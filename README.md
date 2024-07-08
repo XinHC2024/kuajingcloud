@@ -6,9 +6,9 @@
 
 🚌全球域名：即需要通过代理节点才可访问的网址
 
-https://ikuajing01.com         需挂代理节点访问
+https://ikuajing01.com           需挂代理节点访问
 
-https://kuajing9527.com     需挂代理节点访问
+https://kuajing9527.com           需挂代理节点访问
 
 https://ikuajing.xyz              需挂代理节点访问
 
@@ -25,15 +25,20 @@ https://kmn188.ekuajing.cc/auth/login
 https://ikuajing.cc/
 
 
-② 邮箱：zepolchamiu943@gmail.com
+② 邮箱：
 
-邮箱作用：
+iCrossborder@protonmail.com
 
-🚅 提供最新官网 直连网址
+zepolchamiu943@gmail.com
+
+邮箱作用：（发送一次即可，请勿重复发送）
+
+🚅 提供最新官网 包括直连网址
 
 
-🚇 提供1个临时节点（可用我们的临时节点访问 全球域名）
-邮箱使用方法：
+🚇 提供1个临时节点订阅（可用我们的临时节点访问 全球域名）
+
+邮箱使用方法（发送一次即可，请勿重复发送）：
 
 可以发送有效中文汉字语句内容（例如获取网站，最新网址，新节点等内容） 
 
