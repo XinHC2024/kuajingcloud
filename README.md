@@ -20,9 +20,9 @@ https://ikuajing.org              需挂代理节点访问
 
 🚠直连域名：可直接通过大陆网络直连就可访问的网址
 
-https://ikuajing.cc/
+https://ikuajing.cc/auth/login           可大陆网络直连访问
 
-https://kmn188.ekuajing.cc/auth/login
+https://ikuajing.top/auth/login          可大陆网络直连访问)
 
 
 
