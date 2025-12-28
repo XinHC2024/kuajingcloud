@@ -7,27 +7,20 @@
 🚠直连域名：可直接通过大陆网络直连就可访问的网址
 
 
-https://www.ikuajingx.com/auth/login          可大陆网络直连访问
+https://www.ikuajingy.com/auth/login          可大陆网络直连访问
 
 
 
 🚌全球域名：即需要通过代理节点才可访问的网址
 
-https://ikuajing01.com           需挂代理节点访问
-
-https://kuajing9527.com           需挂代理节点访问
+https://ikuajings.com           需挂代理节点访问
 
 https://ikuajing.xyz              需挂代理节点访问
-
-https://ikuajing.org              需挂代理节点访问
-
 
 
 ② 邮箱：
 
 iCrossborder@protonmail.com
-
-zepolchamiu943@gmail.com
 
 邮箱作用：（发送一次即可，请勿重复发送）
 
