@@ -6,8 +6,8 @@
 
 🚠直连域名：可直接通过大陆网络直连就可访问的网址
 
-
-https://www.ikuajingy.com/auth/login          可大陆网络直连访问
+https://www.ikuajingk.com/auth/login          可大陆网络直连访问【最好用手机Chrome浏览器访问】
+https://www.ikuajingy.com/auth/login          可大陆网络直连访问【最好用手机Chrome浏览器访问】
 
 
 
